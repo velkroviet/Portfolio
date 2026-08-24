@@ -23,4 +23,4 @@
     * 最小値のインデックス取得（`min`関数によるスペクトルの特定）
     * 2次元グラフの描画（`plot`関数、マーカーの追加、軸ラベルの設定）
     * 波長データから赤方偏移量 $z$ と速度を算出
-  * **作成したファイル:** [Stellar motion.m](Stellar motion.m)
+  * **作成したファイル:** [Stellar motion.m](https://github.com/velkroviet/Portfolio/blob/main/Stellar%20motion.m)
