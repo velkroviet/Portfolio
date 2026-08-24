@@ -2,6 +2,7 @@
 学習・開発ポートフォリオ
 
 取得した修了証・スキル
+
 〇 MATLAB入門コース　修了証
 
 https://matlabacademy.mathworks.com/progress/share/certificate.html?id=9abb7fba-e965-43c4-88ea-42752b35dc45&
