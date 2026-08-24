@@ -55,6 +55,8 @@ sHa = 7.2400e-14
 idx = 187
 lambdaHa = 656.0600
 
+<img width="529" height="424" alt="image" src="https://github.com/user-attachments/assets/f1dac85b-8df4-4994-9dc5-f7a70ef1e812" />
+
 xlim([6.3000e+02, 6.8000e+02])
 
 ylim([7.0000e-14, 1.4000e-13])
